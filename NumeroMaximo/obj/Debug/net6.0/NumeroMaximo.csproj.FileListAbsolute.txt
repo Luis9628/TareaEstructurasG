@@ -1,0 +1,15 @@
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\NumeroMaximo\bin\Debug\net6.0\NumeroMaximo.exe
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\NumeroMaximo\bin\Debug\net6.0\NumeroMaximo.deps.json
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\NumeroMaximo\bin\Debug\net6.0\NumeroMaximo.runtimeconfig.json
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\NumeroMaximo\bin\Debug\net6.0\NumeroMaximo.dll
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\NumeroMaximo\bin\Debug\net6.0\NumeroMaximo.pdb
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\NumeroMaximo\obj\Debug\net6.0\NumeroMaximo.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\NumeroMaximo\obj\Debug\net6.0\NumeroMaximo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\NumeroMaximo\obj\Debug\net6.0\NumeroMaximo.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\NumeroMaximo\obj\Debug\net6.0\NumeroMaximo.AssemblyInfo.cs
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\NumeroMaximo\obj\Debug\net6.0\NumeroMaximo.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\NumeroMaximo\obj\Debug\net6.0\NumeroMaximo.dll
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\NumeroMaximo\obj\Debug\net6.0\refint\NumeroMaximo.dll
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\NumeroMaximo\obj\Debug\net6.0\NumeroMaximo.pdb
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\NumeroMaximo\obj\Debug\net6.0\NumeroMaximo.genruntimeconfig.cache
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\NumeroMaximo\obj\Debug\net6.0\ref\NumeroMaximo.dll

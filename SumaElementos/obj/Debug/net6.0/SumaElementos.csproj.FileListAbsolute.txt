@@ -1,0 +1,15 @@
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\SumaElementos\bin\Debug\net6.0\SumaElementos.exe
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\SumaElementos\bin\Debug\net6.0\SumaElementos.deps.json
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\SumaElementos\bin\Debug\net6.0\SumaElementos.runtimeconfig.json
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\SumaElementos\bin\Debug\net6.0\SumaElementos.dll
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\SumaElementos\bin\Debug\net6.0\SumaElementos.pdb
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\SumaElementos\obj\Debug\net6.0\SumaElementos.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\SumaElementos\obj\Debug\net6.0\SumaElementos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\SumaElementos\obj\Debug\net6.0\SumaElementos.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\SumaElementos\obj\Debug\net6.0\SumaElementos.AssemblyInfo.cs
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\SumaElementos\obj\Debug\net6.0\SumaElementos.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\SumaElementos\obj\Debug\net6.0\SumaElementos.dll
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\SumaElementos\obj\Debug\net6.0\refint\SumaElementos.dll
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\SumaElementos\obj\Debug\net6.0\SumaElementos.pdb
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\SumaElementos\obj\Debug\net6.0\SumaElementos.genruntimeconfig.cache
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\SumaElementos\obj\Debug\net6.0\ref\SumaElementos.dll

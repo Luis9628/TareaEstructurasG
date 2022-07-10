@@ -1,0 +1,15 @@
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\OrdenaMenorMayor\bin\Debug\net6.0\OrdenaMenorMayor.exe
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\OrdenaMenorMayor\bin\Debug\net6.0\OrdenaMenorMayor.deps.json
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\OrdenaMenorMayor\bin\Debug\net6.0\OrdenaMenorMayor.runtimeconfig.json
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\OrdenaMenorMayor\bin\Debug\net6.0\OrdenaMenorMayor.dll
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\OrdenaMenorMayor\bin\Debug\net6.0\OrdenaMenorMayor.pdb
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\OrdenaMenorMayor\obj\Debug\net6.0\OrdenaMenorMayor.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\OrdenaMenorMayor\obj\Debug\net6.0\OrdenaMenorMayor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\OrdenaMenorMayor\obj\Debug\net6.0\OrdenaMenorMayor.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\OrdenaMenorMayor\obj\Debug\net6.0\OrdenaMenorMayor.AssemblyInfo.cs
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\OrdenaMenorMayor\obj\Debug\net6.0\OrdenaMenorMayor.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\OrdenaMenorMayor\obj\Debug\net6.0\OrdenaMenorMayor.dll
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\OrdenaMenorMayor\obj\Debug\net6.0\refint\OrdenaMenorMayor.dll
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\OrdenaMenorMayor\obj\Debug\net6.0\OrdenaMenorMayor.pdb
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\OrdenaMenorMayor\obj\Debug\net6.0\OrdenaMenorMayor.genruntimeconfig.cache
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\OrdenaMenorMayor\obj\Debug\net6.0\ref\OrdenaMenorMayor.dll

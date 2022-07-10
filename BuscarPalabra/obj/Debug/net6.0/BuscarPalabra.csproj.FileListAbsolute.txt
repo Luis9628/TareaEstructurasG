@@ -1,0 +1,5 @@
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\BuscarPalabra\obj\Debug\net6.0\BuscarPalabra.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\BuscarPalabra\obj\Debug\net6.0\BuscarPalabra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\BuscarPalabra\obj\Debug\net6.0\BuscarPalabra.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\BuscarPalabra\obj\Debug\net6.0\BuscarPalabra.AssemblyInfo.cs
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\BuscarPalabra\obj\Debug\net6.0\BuscarPalabra.csproj.CoreCompileInputs.cache

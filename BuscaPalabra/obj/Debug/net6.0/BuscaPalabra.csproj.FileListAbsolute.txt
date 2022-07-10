@@ -1,0 +1,15 @@
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\BuscaPalabra\bin\Debug\net6.0\BuscaPalabra.exe
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\BuscaPalabra\bin\Debug\net6.0\BuscaPalabra.deps.json
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\BuscaPalabra\bin\Debug\net6.0\BuscaPalabra.runtimeconfig.json
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\BuscaPalabra\bin\Debug\net6.0\BuscaPalabra.dll
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\BuscaPalabra\bin\Debug\net6.0\BuscaPalabra.pdb
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\BuscaPalabra\obj\Debug\net6.0\BuscaPalabra.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\BuscaPalabra\obj\Debug\net6.0\BuscaPalabra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\BuscaPalabra\obj\Debug\net6.0\BuscaPalabra.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\BuscaPalabra\obj\Debug\net6.0\BuscaPalabra.AssemblyInfo.cs
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\BuscaPalabra\obj\Debug\net6.0\BuscaPalabra.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\BuscaPalabra\obj\Debug\net6.0\BuscaPalabra.dll
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\BuscaPalabra\obj\Debug\net6.0\refint\BuscaPalabra.dll
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\BuscaPalabra\obj\Debug\net6.0\BuscaPalabra.pdb
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\BuscaPalabra\obj\Debug\net6.0\BuscaPalabra.genruntimeconfig.cache
+C:\Users\Luis\Desktop\Archivero\TareaEnGrupo1\BuscaPalabra\obj\Debug\net6.0\ref\BuscaPalabra.dll
